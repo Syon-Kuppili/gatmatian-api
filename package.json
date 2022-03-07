@@ -1,0 +1,24 @@
+{
+  "name": "gatmatian-api",
+  "version": "1.0.0",
+  "description": "cus y not lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syon-Kuppili/gatmatian-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syon-Kuppili/gatmatian-api/issues"
+  },
+  "homepage": "https://github.com/Syon-Kuppili/gatmatian-api#readme",
+  "dependencies": {
+    "heroku": "^7.59.3",
+    "json-server": "^0.17.0"
+  }
+}
